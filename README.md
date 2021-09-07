@@ -1,6 +1,6 @@
 ## NMOEA: Node Embedding and Multi-Objective Evolutionary Algorithms for Co-authorship Prediction
 
-### Final Project for KAIST-AI506: Data Mining and Search (finished in 2020/07/30)
+### Final Project for KAIST-AI506: Data Mining and Search (finished on 30 July, 2020)
 - I and my teammate implemented this code for our final team project and I copied the code (just for my job interview).
 
 
